@@ -1,5 +1,5 @@
-import { code } from './prepareTestEnvironment'
 import { DateCalculator } from '../main'
+import { code } from './prepareTestEnvironment'
 
 describe('Code tests for DateCalculator', () => {
   let calculator
